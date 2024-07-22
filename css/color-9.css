@@ -26855,7 +26855,7 @@ body.dark #home {
 }
 
 .our-service-app .main-content .single-block .illustration-box [class*="block-shape"] {
-    opacity: 0;
+  
     transition: all 1.5s ease-in-out;
 }
 
