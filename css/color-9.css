@@ -2312,9 +2312,7 @@ body.menu-on:before {
 	background: #1e347c
 }
 
-.copyright.agency.inner-page {
-	background: #0c0c0c
-}
+
 
 .copyright.event {
 	background: rgba(0, 0, 0, 0.05);
@@ -8200,7 +8198,7 @@ header.ecommerce .responsive-btn i {
 }
 
 .event.bg-img {
-	background-image: url("../img/event/bg1.jpg")
+	background-image: url("../img/background/quick-sol.png");
 }
 
 .event.bg-img2 {
@@ -18958,7 +18956,7 @@ body.dark .copyright .copyright-text {
 }
 
 body.dark .copyright.agency.inner-page {
-	background: #191f3c
+	background: whitesmoke 
 }
 
 body.dark .copyright.yoga hr,
