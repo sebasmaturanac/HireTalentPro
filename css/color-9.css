@@ -3287,8 +3287,10 @@ footer .footer-contant .Unice-text {
 	margin-bottom: 10px
 }
 
-footer .footer-contant .Unice-copyright-text {
-	font-weight: 300
+.Unice-copyright-text {
+    margin: 0;
+    font-size: 18px;
+    color: #761bee;
 }
 
 footer .link-btns {
