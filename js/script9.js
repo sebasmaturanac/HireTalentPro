@@ -128,7 +128,7 @@ $('#brand-slider').owlCarousel({
      *************************/
     $(function () {
         $('.down').click(function () {
-            $('html, body').animate({scrollTop: $('.feature').offset().top}, 'slow');
+            $('html, body').animate({scrollTop: $('.proceso').offset().top}, 'slow');
             return false;
         });
     });

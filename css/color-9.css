@@ -3383,7 +3383,7 @@ footer i.fa {
 }
 
 footer.footer2.bg {
-	background: url("../img/app_landing2/l-2-footer.png") no-repeat top;
+	background: url("/img/app_landing2/l-2-footer.png") no-repeat top;
 	background-size: cover
 }
 
@@ -26774,7 +26774,6 @@ body.dark .icon-collection .about-icon a img {
 
 /* Estilo predeterminado (tema claro) */
 body:not(.dark) #home {
-    background-color: #9056FF; /* Color de fondo violeta */
     color: #fff; /* Color del texto blanco para contrastar */
 }
 
