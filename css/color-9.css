@@ -2587,6 +2587,7 @@ body.menu-on:before {
 	background-image: url("../img/saas2/slider.png")
 }
 
+
 .header .bg.yogas {
 	background-image: url("../img/yoga-img/Layer-8.png")
 }
@@ -4064,7 +4065,7 @@ footer.bg-light-inner {
 }
 
 .music.bg-footer {
-	background: url("../img/music/footer-bg.jpg");
+	background: url("../img/music/footer-bg.png");
 	background-position: top;
 	background-size: cover;
 	background-repeat: no-repeat
